@@ -9,8 +9,8 @@ public class Count_the_digit {
 		int n =num;
 	
 		while(n>0) {
-			int lastdigit=n%10;
-		count+=1;
+			
+		    count+=1;
 			n=n/10;
 	    }
 	      return count;
