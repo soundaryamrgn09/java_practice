@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Reverse_number {
 
-	public int Reverse(int n) {
+	public int reverse(int n) {
 		
 		int num=n;
 		int rev=0;
@@ -25,7 +25,7 @@ public class Reverse_number {
 		int Num=sc.nextInt();
 		
 		 Reverse_number rv=new  Reverse_number();
-		 int res=rv.Reverse(Num);
+		 int res=rv.reverse(Num);
 		 System.out.println("Reverse of "+ Num + "is :"+ res);
 
 		 sc.close();
