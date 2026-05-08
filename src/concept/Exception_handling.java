@@ -1,4 +1,4 @@
-package exception;
+package concept;
 
 import java.util.Scanner;
 
@@ -40,7 +40,7 @@ class Exception_check{
 
 
 
-public class Customer_Exception {
+public class Exception_handling {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -50,3 +50,6 @@ public class Customer_Exception {
 	}
 
 }
+
+
+

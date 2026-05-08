@@ -1,4 +1,4 @@
-package exception;
+package program;
 
 public class Count_the_digit {
 

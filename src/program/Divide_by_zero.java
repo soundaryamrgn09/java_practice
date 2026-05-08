@@ -1,4 +1,4 @@
-package exception;
+package program;
 
 public class Divide_by_zero {
 
