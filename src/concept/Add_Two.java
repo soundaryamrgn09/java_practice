@@ -16,6 +16,18 @@ public class Add_Two {
 		
 		int c= a+b;
 		System.out.println("Addition of two number : "+ c);
+		
+		int sub= a-b;
+		System.out.println("Subtraction of two number : "+ sub);
+		
+		int Mul= a*b;
+		System.out.println("Multiplication of two number : "+ Mul);
+		
+		int div= a / b;
+		System.out.println("Division of two number : "+ div);
+		
+		int rem=a % b;
+		System.out.println("Remainder of two number : "+ rem);
 
 	}
 
