@@ -22,8 +22,8 @@ public class Swap_two_nos {
 		b=temp;
 		
 		System.out.println("After Swapping of two numbers : "+ a +" "+ b);
-		
-
+		sc.close();
 	}
+	
 
 }

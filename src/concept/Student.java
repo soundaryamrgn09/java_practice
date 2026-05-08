@@ -19,6 +19,8 @@ public class Student {
 		System.out.println("Enter a dept:");
 		String dept= sc.next();
 		System.out.println("Department :"+dept);
+		
+		sc.close();
 	}
 
 }

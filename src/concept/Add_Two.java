@@ -28,7 +28,8 @@ public class Add_Two {
 		
 		int rem=a % b;
 		System.out.println("Remainder of two number : "+ rem);
-
+        
+		sc.close();
 	}
 
 }
